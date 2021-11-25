@@ -1,4 +1,4 @@
-# [Trybe - ENGLISH]
+# [Trybe] (in English)
 
 This repository contains all the learning activities developed by _[Débora Schuch da Rosa](https://www.linkedin.com/in/deboraschuchdarosa/)_ while studying at [Trybe](https://www.betrybe.com /) :rocket:
 
@@ -254,7 +254,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 - [ ] 35-5: _[Project - Tech news]()_
 
 
-# Trybe
+# Trybe (Língua Portuguesa)
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Débora Schuch da Rosa](https://www.linkedin.com/in/deboraschuchdarosa/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
@@ -508,3 +508,155 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 35-3: _Entrada e SaÃ­da de dados_
 - [ ] 36-4: _Entrada e SaÃ­da de dados_
 - [ ] 35-5: _[Projeto - Tech news]()_
+
+
+
+# Trybe (en Castellano]
+
+Este repositorio contiene todas las actividades de aprendizaje desarrolladas por _ [Débora Schuch da Rosa] (https://www.linkedin.com/in/deboraschuchdarosa/) _ mientras estudiaba en [Trybe] (https://www.betrybe.com / ): cohete:
+
+_ "Trybe es una escuela del futuro para cualquiera que quiera mejorar su vida y construir una carrera exitosa en tecnología, donde la gente solo paga cuando consigue un buen trabajo". _
+
+El programa tiene más de 1,500 horas de clases presenciales y en línea, cubre la introducción al desarrollo de software, front-end, back-end, informática, ingeniería de software, metodologías ágiles y habilidades de comportamiento.
+
+## Fundamentos de desarrollo web: white_check_mark:
+
+##### Bloque 1: Introducción - Unix y Shell
+
+- [x] 1-3: _Unix y Shell- Parte 1_
+- [x] 1-4: _Unix y Shell- Parte 2_
+
+##### Bloque 2: Git y GitHub
+
+- [x] 2-1: _¿Qué es y para qué sirve? _
+- [x] 2-2: _Comprensión de los comandos_
+- [x] 2-3: _Internet - Comprender cómo funciona_
+
+##### Bloque 3: Introducción - HTML y CSS
+
+- [x] 3-1: _HTML y CSS - Estructuras de página_
+- [x] 3-2: _HTML y CSS - Introducción a CSS_
+- [x] 3-3: _HTML y CSS - Selectores y posicionamiento_
+- [x] 3-4: _ HTML semántico_
+- [] 3-5: _ [Proyecto - HTML y CSS] () _
+
+##### Bloque 4: Introducción - JavaScript
+
+- [] 4-1: _JavaScript - Primeros pasos_
+- [] 4-2: _JavaScript - Array y For_ loop
+- [] 4-3: _JavaScript - Programación de lógica y algoritmos_
+- [] 4-4: _JavaScript - Objetos y funciones_
+- [] 4-5: _ [Proyecto - Funciones del patio de juegos] () _
+
+##### Bloque 5: Introducción - JavaScript - Proyectos
+
+- [] 5-1: _JavaScript - DOM y selectores_
+- [] 5-2: _JavaScript - Trabajar con elementos_
+- [] 5-3: _JavaScript - Eventos_
+- [] 5-4: _JavaScript - Almacenamiento web_
+- [] 5-5: _ [Proyecto - Generador de memes] () _
+- [] 5-6: _ [Proyecto - Pixel Art] () _
+- [] 5-7: _ [Proyecto - Lista de tareas] () _
+- [] 5-7: _ [Proyecto - Adivina el color] () _
+- [] 5-7: _ [Proyecto - Carta misteriosa] () _
+
+##### Bloque 6: HTML y CSS avanzados
+
+- [] 6-1: _HTML y CSS - Formularios_
+- [] 6-2: _Bibliotecas de JavaScript y marcos CSS_
+- [] 6-3: _CSS Flexbox - Parte 1_
+- [] 6-4: _CSS Flexbox - Parte 2_
+- [] 6-5: _CSS Responsive - Mobile First_
+- [] 6-6: _ [Proyecto - Página de inicio de Facebook] () _
+
+##### Bloque 7: JavaScript ES6 y pruebas unitarias
+
+- [] 7-1: _JavaScript ES6 - let, const, funciones de flecha y literales de plantilla_
+- [] 7-2: _JavaScript ES6 - Objetos_
+- [] 7-3: _Pruebas de unidad en JavaScript_
+- [] 7-4: _ [Proyecto - Pruebas unitarias de JavaScript] () _
+
+##### Bloque 8: JavaScript ES6
+
+- [] 8-1: _JavaScript ES6 - Funciones de orden superior - forEach, find, some, every, sort_
+- [] 8-2: _JavaScript ES6 - Funciones de orden superior - mapa y filtro_
+- [] 8-3: _JavaScript ES6 - Funciones de orden superior - reduce_
+- [] 8-4: _JavaScript ES6 - operador de propagación, parámetro de descanso, desestructuración y más_
+- [] 8-5: _ [Proyecto - Funciones del zoológico] () _
+
+##### Bloque 9: Asincronicidad y devoluciones de llamada
+
+- [] 9-1: _ JavaScript asincrónico y devoluciones de llamada_
+- [] 9-2: _JavaScript Promises_
+- [] 9-3: _ [Proyecto - Carrito de compras] () _
+
+##### Bloque 10: Broma
+
+- [] 10-1: _Primeros pasos en Jest_
+- [] 10-2: _Jest - Pruebas asincrónicas_
+- [] 10-3: _Jest - Simulando comportamiento_
+- [] 10-4: _ [Proyecto - Broma asincrónica y burla] () _
+
+## Desarrollo de front-end: hourglass_flowing_sand:
+
+##### Bloque 11: Introducción - Reaccionar
+
+- [] 11-1: _'¡Hola, mundo! ' en React! _
+- [] 11-2: _React Componentes_
+- [] 11-3: _ [Proyecto - Biblioteca de tarjetas de película] () _
+
+##### Bloque 12: Reaccionar
+
+- [] 12-1: _Componentes con estado_
+- [] 12-2: _Eventos y formularios en React_
+- [] 12-3: _ [Proyecto - Biblioteca de tarjetas de películas con estado] () _
+
+##### Bloque 13: Reaccionar
+
+- [] 13-1: _Mejora de la reutilización de componentes: props.children y PropTypes_
+- [] 13-2: _Ciclo de vida del componente en React_
+- [] 13-3: _React Router_
+- [] 13-4: _ [Proyecto - Biblioteca de tarjetas de películas CRUD] () _
+
+##### Bloque 14: Metodologías ágiles
+
+- [] 14-1: _Metodologías ágiles_
+- [] 14-2: _ [Proyecto - Tienda online de frontend] () _
+
+##### Bloque 15: Pruebas en React
+
+- [] 15-1: _Prueba de React con la biblioteca de pruebas de React_
+- [] 15-2: _Prueba de React con la biblioteca de pruebas de React - Parte 2_
+- [] 15-3: _ [Proyecto - Pruebas en React] () _
+
+##### Bloque 16: Introducción a Redux
+
+- [] 16-1: _Introducción a Redux_
+- [] 16-2: _React con Redux - Parte 1_
+- [] 16-3: _React with Redux - Practice_
+- [] 16-4: _React con Redux - Parte 2_
+- [] 16-5: _Pruebas sincronizadas con React-Redux_
+- [] 16-6: _ [Proyecto - Tabla con filtros de datos] () _
+
+##### Bloque 17: Proyecto React
+
+- [] 17-1: _ [Proyecto - Juego de preguntas y respuestas] () _
+
+##### Bloque 18: React & Context API
+
+- [] 18-1: Reaccionar _Context API_
+- [] 18-2: _React Hooks - useState y useContext_
+- [] 18-3: _React Hooks - useEffect y Custom Hooks_
+- [] 18-4: _ [Proyecto - Tabla de datos de StarWars con API de contexto y enlaces] () _
+
+##### Bloque 19: Proyecto final de front-end
+
+- [] 19-1: _ [Proyecto - Aplicación de recetas] () _
+
+## Desarrollo de back-end: hourglass_flowing_sand:
+
+##### Bloque 20: Introducción - Bases de datos relacionales
+
+- [] 20-1: _Base de datos SQL_
+- [] 20-2: _Buscando datos en una base de datos_
+- [] 20-3: _Filtrado de datos específicamente
