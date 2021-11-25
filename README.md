@@ -1,8 +1,8 @@
-# [Trybe] (in English)
+# [Trybe]
 
 This repository contains all the learning activities developed by _[Débora Schuch da Rosa](https://www.linkedin.com/in/deboraschuchdarosa/)_ while studying at [Trybe](https://www.betrybe.com /) :rocket:
 
-_"Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology, where people only pay when they get a good job."_
+_ "Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology, where people only pay when they get a good job."_
 
 The program has more than 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, Agile methodologies and behavioral skills.
 
@@ -254,7 +254,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 - [ ] 35-5: _[Project - Tech news]()_
 
 
-# Trybe (Língua Portuguesa)
+# Trybe (em Língua Portuguesa)
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Débora Schuch da Rosa](https://www.linkedin.com/in/deboraschuchdarosa/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
@@ -303,21 +303,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avanÃ§ado
+##### Bloco 6: HTML & CSS avançado
 
 - [ ] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - PÃ¡gina inicial do Facebook]()_
+- [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
 
-##### Bloco 7: JavaScript ES6 & Testes UnitÃ¡rios
+##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Testes unitÃ¡rios em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes UnitÃ¡rios]()_
+- [ ] 7-3: _Testes unitários em JavaScript_
+- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### Bloco 8: JavaScript ES6
 
@@ -336,7 +336,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 10: Jest
 
 - [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes AssÃ­ncronos_
+- [ ] 10-2: _Jest - Testes Assíncronos_
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
@@ -513,13 +513,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 # Trybe (en Castellano]
 
-Este repositorio contiene todas las actividades de aprendizaje desarrolladas por _ [Débora Schuch da Rosa] (https://www.linkedin.com/in/deboraschuchdarosa/) _ mientras estudiaba en [Trybe] (https://www.betrybe.com / ): cohete:
+Este repositorio contiene todas las actividades de aprendizaje desarrolladas por _[Débora Schuch da Rosa] (https://www.linkedin.com/in/deboraschuchdarosa/)_ mientras estudiaba en [Trybe] (https://www.betrybe.com/) :rocket:
 
 _ "Trybe es una escuela del futuro para cualquiera que quiera mejorar su vida y construir una carrera exitosa en tecnología, donde la gente solo paga cuando consigue un buen trabajo". _
 
 El programa tiene más de 1,500 horas de clases presenciales y en línea, cubre la introducción al desarrollo de software, front-end, back-end, informática, ingeniería de software, metodologías ágiles y habilidades de comportamiento.
 
-## Fundamentos de desarrollo web: white_check_mark:
+## Fundamentos de desarrollo web :white_check_mark:
 
 ##### Bloque 1: Introducción - Unix y Shell
 
@@ -538,7 +538,7 @@ El programa tiene más de 1,500 horas de clases presenciales y en línea, cubre 
 - [x] 3-2: _HTML y CSS - Introducción a CSS_
 - [x] 3-3: _HTML y CSS - Selectores y posicionamiento_
 - [x] 3-4: _ HTML semántico_
-- [] 3-5: _ [Proyecto - HTML y CSS] () _
+- [] 3-5: _[Proyecto - HTML y CSS]()_
 
 ##### Bloque 4: Introducción - JavaScript
 
@@ -546,7 +546,7 @@ El programa tiene más de 1,500 horas de clases presenciales y en línea, cubre 
 - [] 4-2: _JavaScript - Array y For_ loop
 - [] 4-3: _JavaScript - Programación de lógica y algoritmos_
 - [] 4-4: _JavaScript - Objetos y funciones_
-- [] 4-5: _ [Proyecto - Funciones del patio de juegos] () _
+- [] 4-5: _[Proyecto - Funciones del patio de juegos]()_
 
 ##### Bloque 5: Introducción - JavaScript - Proyectos
 
@@ -554,11 +554,11 @@ El programa tiene más de 1,500 horas de clases presenciales y en línea, cubre 
 - [] 5-2: _JavaScript - Trabajar con elementos_
 - [] 5-3: _JavaScript - Eventos_
 - [] 5-4: _JavaScript - Almacenamiento web_
-- [] 5-5: _ [Proyecto - Generador de memes] () _
-- [] 5-6: _ [Proyecto - Pixel Art] () _
-- [] 5-7: _ [Proyecto - Lista de tareas] () _
-- [] 5-7: _ [Proyecto - Adivina el color] () _
-- [] 5-7: _ [Proyecto - Carta misteriosa] () _
+- [] 5-5: _[Proyecto - Generador de memes]()_
+- [] 5-6: _[Proyecto - Pixel Art]()_
+- [] 5-7: _[Proyecto - Lista de tareas]()_
+- [] 5-7: _[Proyecto - Adivina el color]()_
+- [] 5-7: _[Proyecto - Carta misteriosa]()_
 
 ##### Bloque 6: HTML y CSS avanzados
 
@@ -567,14 +567,14 @@ El programa tiene más de 1,500 horas de clases presenciales y en línea, cubre 
 - [] 6-3: _CSS Flexbox - Parte 1_
 - [] 6-4: _CSS Flexbox - Parte 2_
 - [] 6-5: _CSS Responsive - Mobile First_
-- [] 6-6: _ [Proyecto - Página de inicio de Facebook] () _
+- [] 6-6: _[Proyecto - Página de inicio de Facebook]()_
 
 ##### Bloque 7: JavaScript ES6 y pruebas unitarias
 
 - [] 7-1: _JavaScript ES6 - let, const, funciones de flecha y literales de plantilla_
 - [] 7-2: _JavaScript ES6 - Objetos_
 - [] 7-3: _Pruebas de unidad en JavaScript_
-- [] 7-4: _ [Proyecto - Pruebas unitarias de JavaScript] () _
+- [] 7-4: _[Proyecto - Pruebas unitarias de JavaScript]()_
 
 ##### Bloque 8: JavaScript ES6
 
@@ -582,52 +582,52 @@ El programa tiene más de 1,500 horas de clases presenciales y en línea, cubre 
 - [] 8-2: _JavaScript ES6 - Funciones de orden superior - mapa y filtro_
 - [] 8-3: _JavaScript ES6 - Funciones de orden superior - reduce_
 - [] 8-4: _JavaScript ES6 - operador de propagación, parámetro de descanso, desestructuración y más_
-- [] 8-5: _ [Proyecto - Funciones del zoológico] () _
+- [] 8-5: _[Proyecto - Funciones del zoológico]()_
 
 ##### Bloque 9: Asincronicidad y devoluciones de llamada
 
 - [] 9-1: _ JavaScript asincrónico y devoluciones de llamada_
 - [] 9-2: _JavaScript Promises_
-- [] 9-3: _ [Proyecto - Carrito de compras] () _
+- [] 9-3: _[Proyecto - Carrito de compras]()_
 
 ##### Bloque 10: Broma
 
 - [] 10-1: _Primeros pasos en Jest_
 - [] 10-2: _Jest - Pruebas asincrónicas_
 - [] 10-3: _Jest - Simulando comportamiento_
-- [] 10-4: _ [Proyecto - Broma asincrónica y burla] () _
+- [] 10-4: _[Proyecto - Broma asincrónica y burla]()_
 
-## Desarrollo de front-end: hourglass_flowing_sand:
+## Desarrollo de front-end :hourglass_flowing_sand:
 
 ##### Bloque 11: Introducción - Reaccionar
 
 - [] 11-1: _'¡Hola, mundo! ' en React! _
 - [] 11-2: _React Componentes_
-- [] 11-3: _ [Proyecto - Biblioteca de tarjetas de película] () _
+- [] 11-3: _[Proyecto - Biblioteca de tarjetas de película]()_
 
 ##### Bloque 12: Reaccionar
 
 - [] 12-1: _Componentes con estado_
 - [] 12-2: _Eventos y formularios en React_
-- [] 12-3: _ [Proyecto - Biblioteca de tarjetas de películas con estado] () _
+- [] 12-3: _[Proyecto - Biblioteca de tarjetas de películas con estado]()_
 
 ##### Bloque 13: Reaccionar
 
 - [] 13-1: _Mejora de la reutilización de componentes: props.children y PropTypes_
 - [] 13-2: _Ciclo de vida del componente en React_
 - [] 13-3: _React Router_
-- [] 13-4: _ [Proyecto - Biblioteca de tarjetas de películas CRUD] () _
+- [] 13-4: _[Proyecto - Biblioteca de tarjetas de películas CRUD]()_
 
 ##### Bloque 14: Metodologías ágiles
 
 - [] 14-1: _Metodologías ágiles_
-- [] 14-2: _ [Proyecto - Tienda online de frontend] () _
+- [] 14-2: _[Proyecto - Tienda online de frontend]()_
 
 ##### Bloque 15: Pruebas en React
 
 - [] 15-1: _Prueba de React con la biblioteca de pruebas de React_
 - [] 15-2: _Prueba de React con la biblioteca de pruebas de React - Parte 2_
-- [] 15-3: _ [Proyecto - Pruebas en React] () _
+- [] 15-3: _[Proyecto - Pruebas en React]()_
 
 ##### Bloque 16: Introducción a Redux
 
@@ -636,27 +636,132 @@ El programa tiene más de 1,500 horas de clases presenciales y en línea, cubre 
 - [] 16-3: _React with Redux - Practice_
 - [] 16-4: _React con Redux - Parte 2_
 - [] 16-5: _Pruebas sincronizadas con React-Redux_
-- [] 16-6: _ [Proyecto - Tabla con filtros de datos] () _
+- [] 16-6: _[Proyecto - Tabla con filtros de datos]()_
 
 ##### Bloque 17: Proyecto React
 
-- [] 17-1: _ [Proyecto - Juego de preguntas y respuestas] () _
+- [] 17-1: _[Proyecto - Juego de preguntas y respuestas]()_
 
 ##### Bloque 18: React & Context API
 
 - [] 18-1: Reaccionar _Context API_
 - [] 18-2: _React Hooks - useState y useContext_
 - [] 18-3: _React Hooks - useEffect y Custom Hooks_
-- [] 18-4: _ [Proyecto - Tabla de datos de StarWars con API de contexto y enlaces] () _
+- [] 18-4: _[Proyecto - Tabla de datos de StarWars con API de contexto y enlaces]()_
 
 ##### Bloque 19: Proyecto final de front-end
 
-- [] 19-1: _ [Proyecto - Aplicación de recetas] () _
+- [] 19-1: _[Proyecto - Aplicación de recetas]()_
 
-## Desarrollo de back-end: hourglass_flowing_sand:
+## Desarrollo de back-end :hourglass_flowing_sand:
 
 ##### Bloque 20: Introducción - Bases de datos relacionales
 
 - [] 20-1: _Base de datos SQL_
 - [] 20-2: _Buscando datos en una base de datos_
 - [] 20-3: _Filtrado de datos específicamente
+- [] 20-4: _Manipulación de tablas_
+- [] 20-5: _[Proyecto - Todos para uno]()_
+
+##### Bloque 21: Bases de datos relacionales
+
+- [] 21-1: _Funciones más utilizadas en SQL_
+- [] 21-2: _Uniones y UNIONES sencillas_
+- [] 21-3: _ Rutinas y subconsultas almacenadas_
+- [] 21-4: _[Proyecto - Amplificador de vocabulario]()_
+
+##### Bloque 22: Bases de datos relacionales
+
+- [] 22-1: _Transformar ideas en un modelo de base de datos_
+- [] 22-2: _Normalización, formas normales y volcados_
+- [] 22-2: _Convirtiendo ideas en un modelo de base de datos - Parte 2_
+- [] 22-3: _[Proyecto - Uno para todos]()_
+
+##### Bloque 23: Introducción - NoSQL
+
+- [] 23-1: _MongoDB - Introducción_
+- [] 23-2: _Operadores de filtro_
+- [] 23-3: _[Proyecto - Fecha de vuelos]()_
+
+##### Bloque 24: Actualizaciones
+
+- [] 24-1: _Actualizaciones simples_
+- [] 24-2: _Actualizaciones complejas - Matrices - Parte 1_
+- [] 24-3: _Actualizaciones complejas - Matrices - Parte 2_
+- [] 24-4: _[Proyecto - Comercio]()_
+
+##### Bloque 25: Marco de agregación
+
+- [] 25-1: _Marco de agregación - Parte 1_
+- [] 25-2: _Marco de agregación - Parte 2_
+- [] 25-3: _[Proyecto - Agregaciones]()_
+
+##### Bloque 26: Introducción - NodeJS
+
+- [] 26-1: _NodeJS - Introducción_
+- [] 26-2: _NodeJS - Secuencia asincrónica_
+- [] 26-3: _NodeJS - Arquitectura_
+- [] 26-4: _[Proyecto - Una CLI de hielo y fuego]()_
+
+##### Bloque 27: NodeJS
+
+- [] 27-1: _Express: HTTP con Node.js_
+- [] 27-2: _Arquitectura de software - Introducción a MVC_
+- [] 27-3: _[Proyecto - Cookmaster]()_
+
+##### Bloque 28: NodeJS
+
+- [] 28-1: _Arquitectura de software - Capa de servicio_
+- [] 28-2: _Arquitectura web - Descanso y descanso_
+- [] 28-3: _[Proyecto - Gerente de tienda]()_
+
+##### Bloque 29: NodeJS
+
+- [] 29-1: _NodeJS - JWT - (Token web JSON) _
+- [] 29-2: _NodeJS - Subir archivos con Multer_
+- [] 29-3: _[Proyecto - Cookmaster V2]()_
+
+##### Bloque 30: Introducción - Implementación
+
+- [] 30-1: _Infraestructura - Implementar con Heroku_
+- [] 30-2: _Deploy - Process Managers_
+- [] 30-3: _[Proyecto - Cosas más extrañas]()_
+
+##### Bloque 31: Proyecto
+
+- [] 31-1: _[Proyecto - Trybeer]()_
+
+##### Bloque 32: Arquitectura de software
+
+- [] 32-1: _Arquitectura - Principios SOLID_
+- [] 32-2: _ORM - Interfaz de aplicación con la base de datos_
+- [] 32-3: _Arquitectura de software - DDD_
+- [] 32-4: _Buenas prácticas de redacción de exámenes_
+- [] 32-3: _[Proyecto - API de blogs]()_
+
+##### Bloque 33: Enchufes
+
+- [] 30-1: _Sockets - TCP / UDP y NET_
+- [] 30-2: _Enchufes - Socket.io_
+- [] 30-3: _[Proyecto - Webchat]()_
+
+##### Bloque 34: Proyecto
+
+- [] 34-1: _[Proyecto - Trybeer V2]()_
+
+## Ciencias de la computación: hourglass_flowing_sand:
+
+##### Bloque 35: Introducción - Ciencias de la Computación
+
+- [] 35-1: _Arquitectura de la computadora_
+- [] 35-2: _Arquitectura de red_
+- [] 35-3: _Redes informáticas, herramientas y seguridad_
+- [] 35-4: _[Proyecto - Explorando los protocolos]()_
+
+##### Bloque 36: Python
+
+- [] 35-1: _Aprendiendo Python_
+- [] 35-2: _Pruebas y excepciones_
+- [] 35-3: _Entrada y salida de datos_
+- [] 36-4: _Entrada y salida de datos_
+- [] 35-5: _[Proyecto - Noticias tecnológicas]()_
