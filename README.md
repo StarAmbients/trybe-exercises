@@ -29,23 +29,23 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 ##### Block 4: Introduction - JavaScript
 
-- [ ] 4-1: _JavaScript - First steps_
-- [ ] 4-2: _JavaScript - Array and For_ loop
-- [ ] 4-3: _JavaScript - Programming Logic and Algorithms_
-- [ ] 4-4: _JavaScript - Objects and functions_
-- [ ] 4-5: _[Project - Playground Functions]()_
+- [x] 4-1: _JavaScript - First steps_
+- [x] 4-2: _JavaScript - Array and For_ loop
+- [x] 4-3: _JavaScript - Programming Logic and Algorithms_
+- [x] 4-4: _JavaScript - Objects and functions_
+- [x] 4-5: _[Project - Playground Functions]()_
 
 ##### Block 5: Introduction - JavaScript - Projects
 
-- [ ] 5-1: _JavaScript - DOM and selectors_
-- [ ] 5-2: _JavaScript - Working with elements_
-- [ ] 5-3: _JavaScript - Events_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Project - Meme Generator]()_
-- [ ] 5-6: _[Project - Pixel Art]()_
-- [ ] 5-7: _[Project - To-do list]()_
-- [ ] 5-7: _[Project - Guess the Color]()_
-- [ ] 5-7: _[Project - Mysterious Letter]()_
+- [x] 5-1: _JavaScript - DOM and selectors_
+- [x] 5-2: _JavaScript - Working with elements_
+- [x] 5-3: _JavaScript - Events_
+- [x] 5-4: _JavaScript - Web Storage_
+- [x] 5-5: _[Project - Meme Generator]()_
+- [x] 5-6: _[Project - Pixel Art]()_
+- [x] 5-7: _[Project - To-do list]()_
+- [x] 5-7: _[Project - Guess the Color]()_
+- [x] 5-7: _[Project - Mysterious Letter]()_
 
 ##### Block 6: Advanced HTML & CSS
 
@@ -281,27 +281,27 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [ ] 3-5: _[Projeto - HTML & CSS]()_
+- [x] 3-5: _[Projeto - HTML & CSS]()_
 
 ##### Bloco 4: Introduçao - JavaScript
 
-- [ ] 4-1: _JavaScript - Primeiros passos_
-- [ ] 4-2: _JavaScript - Array e loop For_
-- [ ] 4-3: _JavaScript - Lógica de Programaçao e Algoritmos_
-- [ ] 4-4: _JavaScript - Objetos e funçoes_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-1: _JavaScript - Primeiros passos_
+- [x] 4-2: _JavaScript - Array e loop For_
+- [x] 4-3: _JavaScript - Lógica de Programaçao e Algoritmos_
+- [x] 4-4: _JavaScript - Objetos e funçoes_
+- [x] 4-5: _[Projeto - Playground Functions]()_
 
 ##### Bloco 5: IntroduÃ§Ã£o - JavaScript - Projetos
 
-- [ ] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Meme Generator]()_
-- [ ] 5-6: _[Projeto - Arte com Pixels]()_
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [x] 5-1: _JavaScript - DOM e seletores_
+- [x] 5-2: _JavaScript - Trabalhando com elementos_
+- [x] 5-3: _JavaScript - Eventos_
+- [x] 5-4: _JavaScript - Web Storage_
+- [x] 5-5: _[Projeto - Meme Generator]()_
+- [x] 5-6: _[Projeto - Arte com Pixels]()_
+- [x] 5-7: _[Projeto - Lista de tarefas]()_
+- [x] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [x] 5-7: _[Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: HTML & CSS avançado
 
@@ -402,7 +402,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 20-1: _Banco de dados SQL_
 - [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma especÃ­fica_
+- [ ] 20-3: _Filtrando dados de forma especifica_
 - [ ] 20-4: _Manipulando tabelas_
 - [ ] 20-5: _[Projeto - All For One]()_
 
@@ -513,7 +513,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 # Trybe (en Castellano]
 
-Este repositorio contiene todas las actividades de aprendizaje desarrolladas por _[Débora Schuch da Rosa] (https://www.linkedin.com/in/deboraschuchdarosa/)_ mientras estudiaba en [Trybe] (https://www.betrybe.com/) :rocket:
+Este repositorio contiene todas las actividades de aprendizaje desarrolladas por _[Débora Schuch da Rosa](https://www.linkedin.com/in/deboraschuchdarosa/)_ mientras estudiaba en [Trybe] (https://www.betrybe.com/) :rocket:
 
 _ "Trybe es una escuela del futuro para cualquiera que quiera mejorar su vida y construir una carrera exitosa en tecnología, donde la gente solo paga cuando consigue un buen trabajo". _
 
@@ -538,27 +538,27 @@ El programa tiene más de 1,500 horas de clases presenciales y en línea, cubre 
 - [x] 3-2: _HTML y CSS - Introducción a CSS_
 - [x] 3-3: _HTML y CSS - Selectores y posicionamiento_
 - [x] 3-4: _ HTML semántico_
-- [] 3-5: _[Proyecto - HTML y CSS]()_
+- [x] 3-5: _[Proyecto - HTML y CSS]()_
 
 ##### Bloque 4: Introducción - JavaScript
 
-- [] 4-1: _JavaScript - Primeros pasos_
-- [] 4-2: _JavaScript - Array y For_ loop
-- [] 4-3: _JavaScript - Programación de lógica y algoritmos_
-- [] 4-4: _JavaScript - Objetos y funciones_
-- [] 4-5: _[Proyecto - Funciones del patio de juegos]()_
+- [x] 4-1: _JavaScript - Primeros pasos_
+- [x] 4-2: _JavaScript - Array y For_ loop
+- [x] 4-3: _JavaScript - Programación de lógica y algoritmos_
+- [x] 4-4: _JavaScript - Objetos y funciones_
+- [x] 4-5: _[Proyecto - Funciones del patio de juegos]()_
 
 ##### Bloque 5: Introducción - JavaScript - Proyectos
 
-- [] 5-1: _JavaScript - DOM y selectores_
-- [] 5-2: _JavaScript - Trabajar con elementos_
-- [] 5-3: _JavaScript - Eventos_
-- [] 5-4: _JavaScript - Almacenamiento web_
-- [] 5-5: _[Proyecto - Generador de memes]()_
-- [] 5-6: _[Proyecto - Pixel Art]()_
-- [] 5-7: _[Proyecto - Lista de tareas]()_
-- [] 5-7: _[Proyecto - Adivina el color]()_
-- [] 5-7: _[Proyecto - Carta misteriosa]()_
+- [x] 5-1: _JavaScript - DOM y selectores_
+- [x] 5-2: _JavaScript - Trabajar con elementos_
+- [x] 5-3: _JavaScript - Eventos_
+- [x] 5-4: _JavaScript - Almacenamiento web_
+- [x] 5-5: _[Proyecto - Generador de memes]()_
+- [x] 5-6: _[Proyecto - Pixel Art]()_
+- [x] 5-7: _[Proyecto - Lista de tareas]()_
+- [x] 5-7: _[Proyecto - Adivina el color]()_
+- [x] 5-7: _[Proyecto - Carta misteriosa]()_
 
 ##### Bloque 6: HTML y CSS avanzados
 
