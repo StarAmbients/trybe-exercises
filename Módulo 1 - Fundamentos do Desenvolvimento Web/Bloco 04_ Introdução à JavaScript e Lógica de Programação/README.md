@@ -1,4 +1,4 @@
-:white_check_mark: # BLOCO 4 - INTRODUÇAO A JAVASCRIPT E LOGICA DE PROGRAMAÇAO
+# BLOCO 4 - INTRODUÇAO A JAVASCRIPT E LOGICA DE PROGRAMAÇAO :white_check_mark: 
 
 Esse bloco pertence ao modulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco aprendi sobre a linguagem de programação JavaScript . 🚀🚀🚀
 Para isso, segui o conteúdo, que foi dividido em quatro partes:

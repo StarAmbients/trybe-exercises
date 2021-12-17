@@ -1,7 +1,20 @@
-# FRONT-END
+# FUNDAMENTOS DO DESENVOLVIMENTO WEB
 
-Nesse modulo aprendi sobre `formularios HTML`, `CSS Flexbox` e a como utilizar bibliotecas externas de JavaScript. Na sequencia aprendi a criar estilos de forma responsiva, com foco em diferentes tamanhos de tela. E entÃ£o aprendi sobre as principais funcionalidades da ultima versao do `JavaScript`, o `ES6`. Na ultima parte, aprendi a utilizar o framework `React` para criar aplicaçoes de front-end que se conectam com APIs.
+Neste primeiro módulo aprendi tudo que preciso saber para iniciar minha carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de Front-end e Back-end. Fui guiada pela [Trybe](https://www.betrybe.com/), etapa a etapa, por toda essa jornada!
 
-Com isso me tornei capaz de criar paginas com formularios, estilizadas de forma responsiva, utilizando frameworks e bibliotecas externas para a estilizaçao e validaçao de dados. Sei agora utilizar as principais funcionalidades do `ECMAScript 6`, a mais recente versao do `JavaScript`. E tambem sou capaz de criar aplicaçoes completas de front-end utilizando o framework `React`.
+Esta introdução foi dividida em quatro partes:
+1. Pra começar, estudei um pouco sobre um famoso tipo de sistema operacional chamado UNIX. Coloquei a mão na massa e executar alguns comandos no terminal.
+2. Depois de entender como os comandos funcionam e de já ter criado meus primeiros scripts, aprendi a usar o Git para guardá-los de forma segura. Além disso, também entendi o que é a Internet e como ela funciona.
+3. Então, começamos com a parte mais divertida: o desenvolvimento web. Aqui aprendi a estruturar documentos HTML, estilizá-los com o CSS e criar comportamentos customizados com o JavaScript !
+4. Após esse primeiro ciclo de aprendizado, aprendi sobre como criar sites responsivos e com CSS elegante e eficiente. Aprendi também a como utilizar o JavaScript em sua plenitude, utilizando recursos avançados como HOF, Código assíncrono, Testes unitários entre outras coisas incríveis!
 
-Tendo isso em mente, esta pasta contem todas as atividades de aprendizagem que desenvolvi ao longo do modulo de `Front-end` do curso da [Trybe](https://www.betrybe.com/).
+Em resumo, me prepararam para:
+- Utilizar o bash.
+- Entender como a internet funciona, seus principais conceitos e terminologias.
+- Utilizar de forma confortável o Git e o Github.
+- Criar documentos HTML estilizados com CSS.
+- Utilizar o JavaScript para adicionar comportamento às páginas web.
+- Utilizar recursos de HTML e CSS Avançado.
+- Trabalhar com JavaScript ES6.
+- Criar códigos assíncronos em JavaScript.
+- Escrever testes unitários.

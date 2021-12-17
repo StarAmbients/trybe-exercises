@@ -1,4 +1,4 @@
-:white_check_mark: # BLOCO 5 - JAVASCRIPT - DOM, EVENTOS E WEB STORAGE
+# BLOCO 5 - JAVASCRIPT - DOM, EVENTOS E WEB STORAGE :white_check_mark: 
 
 Esse bloco pertence ao mÃ³dulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco aprendi sobre o famoso DOM, a estrutura que faz a ponte entre o HTML e o JavaScript e que permite interação entre os dois. Por fim, aprendi um pouco sobre algumas das interações possíveis: vi como recuperar dados do HTML através do JavaScript.
 

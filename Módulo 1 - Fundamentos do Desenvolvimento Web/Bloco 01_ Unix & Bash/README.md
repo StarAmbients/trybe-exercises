@@ -1,4 +1,4 @@
-:white_check_mark: # BLOCO 1 - UNIX & BASH
+# BLOCO 1 - UNIX & BASH :white_check_mark: 
 
 Esse bloco pertence ao modulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco aprendi sobre o Unix, que é um sistema operacional popular que foi lançado em 1969 e ganhou muitas das variações que se tornaram os principais sistemas operacionais do mercado. Aprendi como este sistema operacional funciona e como interagir com ele através do terminal, utilizando o Bash. Os principais pontos abordados foram:
 - Quais são os principais componentes do Unix?

@@ -1,4 +1,4 @@
-:white_check_mark: # BLOCO 2 - GIT, GITHUB E INTERNET
+# BLOCO 2 - GIT, GITHUB E INTERNET :white_check_mark: 
 
 Esse bloco pertence ao modulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco entendi como funciona e coloquei em prática o Git em meus projetos. Esta atividade é crucial no dia a dia de quem trabalha com desenvolvimento de software. O Git é o mecanismo de controle de versão mais popular e, por consequência, a chance de que eu trabalhe com ele é bem alta.
 
